@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="google-appengine-python" name="Google App Engine (Python)">
+      <configuration>
+        <option name="rootFolder" value="E:\deeplearning\production\emotion" />
+        <option name="sdkFolder" value="C:\Users\Harvey Nguyen\AppData\Local\Google\Cloud SDK\google-cloud-sdk\bin" />
+        <option name="templatesFolder" value="" />
+        <option name="oauth2" value="false" />
+        <option name="deployConfigured" value="false" />
+        <option name="saveCredentials" value="false" />
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="jdk" jdkName="Remote Python 3.6.8 (sftp://harveynguyen@40.76.63.227:22/data/anaconda/envs/py36/bin/python)" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Google App Engine SDK" level="project" />
+  </component>
+  <component name="TestRunnerService">
+    <option name="PROJECT_TEST_RUNNER" value="Unittests" />
+  </component>
+</module>
